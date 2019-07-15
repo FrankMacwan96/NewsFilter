@@ -1,0 +1,26 @@
+body {
+    margin:0
+}
+
+header{
+    text-align:center;
+    background-color:#77C9D4;
+}
+
+.logo{
+    font-weight: bold;
+    color:white;
+    font-size:90px;
+    font-family: Literata;
+}
+
+header input{
+    font-size: 50px;
+    margin:30px 0px;
+} 
+
+.news_item {
+    padding:20px;
+    box-sizing:border-box;
+    border-bottom: 1px solid grey;
+}
